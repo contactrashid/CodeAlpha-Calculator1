@@ -15,18 +15,12 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - **CSS3** – for styling
 - **JavaScript (ES6)** – for logic and interactivity
 
+## Dev Tools:
+- Git & GitHub
+- Vercel
+
 ## 📸 Demo
 (https://code-alpha-calculator1.vercel.app/)
-[Live Demo 🚀](#)
 
-## 📂 How to Use
-1. Clone the repository:
-   ```bash
-   git clone(https://github.com/contactrashid)/calculator.git
-   
-## 📁 Project Structure
-calculator/
-├── index.html
-├── style.css
-└── script.js
-
+## 📸 Screenshots
+![Screenshot 2025-05-04 161128](https://github.com/user-attachments/assets/45cfd61d-2cd1-475f-b433-4b476654f9f9)
